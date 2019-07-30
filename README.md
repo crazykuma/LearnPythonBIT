@@ -6,17 +6,17 @@
 
 目录结构
 - 章节
-  - 课件
-  - 例题讲解
-  - 习题
-  - 测验
+  - 课件textbook
+  - 例题examples
+  - 习题practice
+  - 测验test
 
 TO-DO LIST
 
-- [ ] chapter 0
-- [ ] chapter 1
-- [ ] chapter 2
-- [ ] chapter 3
+- [x] chapter 0
+- [x] chapter 1
+- [x] chapter 2
+- [x] chapter 3
 - [ ] chapter 4
 - [ ] chapter 5
 - [ ] chapter 6
