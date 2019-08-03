@@ -23,4 +23,5 @@ TO-DO LIST
 - [x] chapter 6
 - [x] chapter 7
 - [x] chapter 8
-- [ ] chapter 9
+- [x] chapter 9
+- [x] exam
